@@ -63,8 +63,9 @@ ul{
     padding-left:18%;
 }
 .intro-img{
-    height: 150px;
-    width: 150px;
+    padding-left: 43%;
+    height: 125px;
+    width: 125px;
     
 }
 .intro-img-container{
@@ -475,6 +476,11 @@ ul{
     .spending-text{
         padding-left: 0;
         text-align: center;
+    }
+    .spending-img{
+        padding-top: 5%;
+        height: auto;
+        width: 150px;
     }
     .stat-container{
         flex-direction: column;
